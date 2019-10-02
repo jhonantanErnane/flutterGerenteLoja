@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ucrop_rotate">Rotacionar</string>
+    <string name="ucrop_scale">Escala</string>
+    <string name="ucrop_crop">Cortar</string>
+</resources>
